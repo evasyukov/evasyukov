@@ -19,7 +19,7 @@
 
 
 <div align="">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evasyukov&theme=tokyonight" alt=""/>
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evasyukov&theme=tokyonight" alt=""/> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=evasyukov&theme=tokyonight" alt=""/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evasyukov&theme=tokyonight" alt=""/>
 </div>
